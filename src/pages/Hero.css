@@ -1,0 +1,9 @@
+.hero {
+    height: 120vh; /* أو الطول اللي تحبه */
+    background-image: 
+        linear-gradient(to bottom, transparent 20%, black 70%), 
+        url(../images/photo-1768322264423-4b0adf0cf31b.jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
